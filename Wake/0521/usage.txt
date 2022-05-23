@@ -1,0 +1,2 @@
+-Xbootclasspath/p:C:\Users\Administrator\Desktop\WakeKiller.jar 
+-javaagent:C:\Users\Administrator\Desktop\Killer.jar
