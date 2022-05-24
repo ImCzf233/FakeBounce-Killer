@@ -1,7 +1,7 @@
 ﻿# Bounce-Killer
  Any liquidbounce secondary modification client that does not comply with the open source agreement will face cracking / open source.
 # Related Information
- Please notice that the liquidbounce project opened source under GPLv3 license.The license doesnt allow anyone to sell their products without source-opened.
+ Please notice that the liquidbounce project opened source under GPLv3 license.The license doesnt allow anyone to sell their products(even obfuscated) without opening sources.
 >The origin liquidbounce source link(Github): https://github.com/CCBlueX/LiquidBounce
 # 为什么创建这个项目 
 >很多国人开发者并不遵守开源协议。在使用他人成果时不做出任何贡献。为此我们将对他们的程序作出处理。
