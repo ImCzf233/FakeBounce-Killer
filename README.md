@@ -8,7 +8,7 @@
 
 >针对LiquidBounce这个开源项目(GPLv3)，原开发者要求在使用他们代码的时候必须对自己的修改产物进行开源。
 
->纵观整个方块人二开Bounce，仅有FDP Client做到了真正遵守协议
+>纵观整个方块人二开Bounce，仅有FDP Client&LiquidBouncePlus做到了真正遵守协议
 
 >大部分人加上验证进行售卖，但并未向用户开源，这严重违反了开源者的初衷。
 
