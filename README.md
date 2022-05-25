@@ -7,7 +7,7 @@
 # Why build this project
 >很多国人开发者并不遵守开源协议。在使用他人成果时不做出任何贡献。为此我们将对他们的程序作出处理。
 
-> Many Chinese developers do not abide by the open source agreement. Make no contribution when using the results of others. To this end, we will deal with their procedures.
+> Many Chinese developers do not abide by the open source license. Making no contribution when using the results of others. To this end, we will deal with their procedures.
 
 >针对LiquidBounce这个开源项目(GPLv3)，原开发者要求在使用他们代码的时候必须对自己的修改产物进行开源。
 
@@ -15,7 +15,7 @@
 
 >纵观整个方块人二开Bounce，仅有FDP Client&LiquidBouncePlus做到了真正遵守协议
 
-> As far as I am concerned, only FDP client & liquidbounceplus has truly complied with the agreement.
+> As far as I am concerned, only FDP client & liquidbounceplus has truly complied with the license.
 
 >大部分人加上验证进行售卖，但并未向用户开源，这严重违反了开源者的初衷。
 
@@ -26,7 +26,7 @@
 > Now we will crack these clients or other operations to prevent them from continuing their violations.
 
 # 值得注意的是 一切手段
-# It is worth noting that we will use all means
+# It is worth noticing that we will use all means
 # 相关事项(Related matters)
 >如果你需要部分“重要源代码”可以提交Issues使我们进行源代码修复
 
@@ -38,4 +38,4 @@
 
 >本项目中任何第三方补丁，第三方软件用于破解的不含任何危害电脑安全代码。
 
-> Any third-party patch and third-party software in this project do not contain any code endangering computer security.
+> Any third-party patchers and third-party software in this project arent contain any code endangering computer security.
