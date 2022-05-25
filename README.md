@@ -16,7 +16,10 @@
 # 值得注意的是 一切手段
 # 相关事项
 >如果你需要部分“重要源代码”可以提交Issues使我们进行源代码修复
+> If you need some "important source code", you can submit issues for us to repair the source code.
 
 >如果发现其他闭源二开LiquidBounce也可以提交Issues提醒我们进行处理
+> If you find other closed source secondary development programs, you can also submit issues to remind us to crack them.
 
 >本项目中任何第三方补丁，第三方软件用于破解的不含任何危害电脑安全代码。
+> Any third-party patch and third-party software in this project do not contain any code endangering computer security.
