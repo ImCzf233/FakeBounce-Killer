@@ -1,6 +1,6 @@
 # Bounce-Killer
- Eliminate privately distributed/illegally sold versions of LiquidBounce. \
- Any LiquidBounce forks/modified versions that does not comply with open-source agreement will get cracked / its source leaked.
+ Eliminate publicly distributed and illegally sold versions of LiquidBounce without source code. \
+ Any LiquidBounce fork/modified version that does not comply with open-source agreement will get cracked / its source leaked.
 ## Most importantly,
  Please notice that the original LiquidBounce project is publicized and licensed under GPLv3, which does NOT allow anyone to sell/distribute softwares without disclosing their source.
  
