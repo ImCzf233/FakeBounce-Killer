@@ -15,7 +15,7 @@ GNU General Public License version 3: https://www.gnu.org/licenses/gpl-3.0.en.ht
 - Our goal is to crack these builds/versions or perform other actions to prevent them from continuing their violations.
 
 ## CN: 为什么创建这个项目 
-- 很多国人开发者并不遵守开源协议。在使用他人成果时不做出任何贡献。为此我们将对他们的程序作出处理。
+- 许多开发人员不遵守开源协议。在使用他人成果时不做出任何贡献。为此我们将对他们的程序作出处理。
 - 针对LiquidBounce这个开源项目(GPLv3)，原开发者要求在使用他们代码的时候必须对自己的修改产物进行开源。
 - 纵观整个方块人二开Bounce，仅有FDPClient&LiquidBouncePlus做到了真正遵守协议
 - 大部分人加上验证进行售卖，但并未向用户开源，这严重违反了开源者的初衷。
