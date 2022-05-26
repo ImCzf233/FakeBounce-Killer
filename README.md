@@ -8,7 +8,7 @@ Original LiquidBounce GitHub repository: https://github.com/CCBlueX/LiquidBounce
 GNU General Public License version 3: https://www.gnu.org/licenses/gpl-3.0.en.html
 
 ## EN: Why did we create this repository?
-- Many Chinese "developers" do not abide by the open-source license, making no contribution when using the results of others. To this end, we will deal with their procedures.
+- Many "developers" do not abide by the open-source license, making no contribution when using the results of others. To this end, we will deal with their procedures.
 - According to the original LiquidBounce (GPLv3), the developers required people to disclose their modified products' source when using their code.
 - As far as I am concerned, only FDPClient and LiquidBouncePlus has truly complied with the license.
 - Most people sell private LiquidBounce builds with built-in verification without disclosing source to their users, which is a serious violation of the original intention of the source.
