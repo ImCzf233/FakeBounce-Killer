@@ -30,4 +30,4 @@ GNU General Public License version 3: https://www.gnu.org/licenses/gpl-3.0.en.ht
 > 如果发现其他闭源二开LiquidBounce也可以提交Issues提醒我们进行处理
 - Any third-party patchers/softwares used in this project don't contain any harmful/malicious code.
 >本项目中任何第三方补丁，第三方软件用于破解的不含任何危害电脑安全代码。
-
+- Please use Java 8 1.8.0_201 above version.
