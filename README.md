@@ -1,4 +1,4 @@
-# Bounce-Killer
+# FakeBounce-Killer
  Eliminate publicly distributed and illegally sold versions of LiquidBounce without source code. \
  Any LiquidBounce fork/modified version that does not comply with open-source agreement will get cracked / its source leaked.
 ## Most importantly,
