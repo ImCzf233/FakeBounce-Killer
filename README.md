@@ -10,7 +10,7 @@ GNU General Public License version 3: https://www.gnu.org/licenses/gpl-3.0.en.ht
 ## EN: Why did we create this repository?
 - Many "developers" do not abide by the open-source license, making no contribution when using the results of others. To this end, we will deal with their procedures.
 - According to the original LiquidBounce (GPLv3), the developers required people to disclose their modified products' source when using their code.
-- As far as I am concerned, only [FDPClient](https://github.com/UnlegitMC/FDPClient) and [LiquidBouncePlus](https://github.com/WYSI-Foundation/LiquidBouncePlus) has truly complied with the license.
+- As far as I am concerned, only [FDPClient](https://github.com/SkidderMC/FDPClient) and [LiquidBouncePlus](https://github.com/WYSI-Foundation/LiquidBouncePlus) has truly complied with the license.
 - Most people sell private LiquidBounce versions with built-in verification without disclosing source to their users, which is a serious violation of the original intention of the source.
 - Our goal is to crack these builds/versions or perform other actions to prevent them from continuing their violations.
 
