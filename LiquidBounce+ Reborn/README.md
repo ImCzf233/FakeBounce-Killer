@@ -1,4 +1,5 @@
-
+<div align="center">
+    
 # LiquidBounce+ Reborn(Unofficial)
 
 The End Of Legacy
@@ -15,6 +16,7 @@ Forum: https://forums.ccbluex.net \
 Guilded: https://www.guilded.gg/CCBlueX \
 YouTube: https://youtube.com/CCBlueX \
 Twitter: https://twitter.com/CCBlueX 
+</div>
 
 ## License
 This project is subject to the [GNU General Public License v3.0](LICENSE). This does only apply for source code located directly in this clean repository. During the development and compilation process, additional source code may be used to which we have obtained no rights. Such code is not covered by the GPL license.
