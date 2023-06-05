@@ -1,4 +1,4 @@
-<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="lb++" src="src/main/resources/assets/minecraft/liquidbounce%2B/big.png">
+<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="lb++" src="https://raw.githubusercontent.com/PlusPlusMC/LiquidBouncePlusPlus/main/src/main/resources/assets/minecraft/liquidbounce%2B/big.png">
 
 # LiquidBounce++                                    
      
