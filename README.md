@@ -17,4 +17,8 @@ FakeBounce repo is no longer updatable, so we created fork of that repository
 - [BestNub's LiquidBounce](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/BestNub's%20LB/READMe.md)
 - [BurnSense](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/Burnsense/README.md)
 - ChelunBounce: [Crack](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/ChenlunBounce/ChenlunBounce%20Cracked.jar) & [Source Code](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/ChenlunBounce/ChenlunBounce-SRC.zip)
-- ChristmacAce
+- [ChristmasAce](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/ChrismasAce/ChrismasAce%20Cracked.jar)
+- [CloudSense](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/Cloudsense/Cloudsense0220%20-%20C.jar)
+- [CrazyBounce](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/CrazyBounce/CrazyBounce%20Crack.jar)
+- [DayZay](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/DayZay/README.md)
+- DineTire: [Free](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/DineTire/DineTire_FREE.jar) & [Latest leaked (b2)](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/DineTire/DineTire-b2.jar)
