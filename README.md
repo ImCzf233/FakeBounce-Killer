@@ -2,7 +2,7 @@
 
 # ForkBounce-Archive
 Fork of FakeBounce Killer repo, have inside all public (or not) forks of liquidbounce.
-## Most importantly,
+## Most importantly
  Please notice that the original LiquidBounce project is publicized and licensed under GPLv3, which does **NOT** allow anyone to **sell/distribute** softwares without **disclosing their source**.
  
 Original LiquidBounce GitHub repository: https://github.com/CCBlueX/LiquidBounce \
@@ -22,3 +22,19 @@ FakeBounce repo is no longer updatable, so we created fork of that repository
 - [CrazyBounce](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/CrazyBounce/CrazyBounce%20Crack.jar)
 - [DayZay](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/DayZay/README.md)
 - DineTire: [Free](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/DineTire/DineTire_FREE.jar) & [Latest leaked (b2)](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/DineTire/DineTire-b2.jar)
+- [FDP China](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/FDP%20China/README.md)
+- [FDP Client](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/FDP%20Client/README.md)
+- [Hreith](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/Hreith/Hreith%20-%20C.jar)
+- [KainoSense (Under work)](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/KainoSense/README.md)
+- [LiquidBounce+ Reborn](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/LiquidBounce%2B%20Reborn/README.md)
+- [LiquidBounce++](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/LiquidBounce%2B%2B/README.md)
+- [LiquidDrip](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/LiquidDrip/README.md)
+- [LiquidPlus Modified](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/LiquidPlus-Modified/output_yTWEr2.tar.gz)
+- [LiquidSense](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/LiquidSense/LiquidSense-b5.2.jar)
+- [Night X](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/Night%20X/README.md)
+- Noteless: [All files](https://github.com/CatsPnewed1337/ForkBounce-Archive/tree/main/Noteless)
+- [Other Forks](https://github.com/CatsPnewed1337/ForkBounce-Archive/tree/main/Other)
+- PasacZ: [B3 Crack](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/PasacZ/PasacZ-b3-Cracked.jar) & [v1.0.1](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/PasacZ/PasacZ-v1.0.1.zip)
+- [Project Ace](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/ProjectAce/Project_Ace.jar)
+- TomK: [All Files](https://github.com/CatsPnewed1337/ForkBounce-Archive/tree/main/TomK)
+- [TrollSense]()
