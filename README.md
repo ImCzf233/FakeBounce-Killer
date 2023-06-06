@@ -28,6 +28,7 @@ FakeBounce repo is no longer updatable, so we created fork of that repository
 - [KainoSense (Under work)](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/KainoSense/README.md)
 - [LiquidBounce+ Reborn](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/LiquidBounce%2B%20Reborn/README.md)
 - [LiquidBounce++](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/LiquidBounce%2B%2B/README.md)
+- [LiquidBounce+](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/LiquidBounce+/README.md)
 - [LiquidDrip](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/LiquidDrip/README.md)
 - [LiquidPlus Modified](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/LiquidPlus-Modified/output_yTWEr2.tar.gz)
 - [LiquidSense](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/LiquidSense/LiquidSense-b5.2.jar)
