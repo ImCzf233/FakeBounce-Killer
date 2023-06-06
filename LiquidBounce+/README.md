@@ -3,7 +3,7 @@
 A free mixin-based injection hacked-client for Minecraft 1.8.9 using Minecraft Forge.
 ### Thank you.
 
-No long shit, I just want to say thank you to everyone.
+No long shit, I just want to say thank you to everyone. Final build [there](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/LiquidBounce%2B/liquidbounceplus-final.jar)
 ### LiquidBounce's contact info
 
 Website: https://liquidbounce.net \
