@@ -10,5 +10,9 @@ GNU General Public License version 3: https://www.gnu.org/licenses/gpl-3.0.en.ht
 
 ### Reason of fork
 FakeBounce repo is no longer updatable, so we created fork of that repository
-
 </div>
+
+
+### Forks List:
+- [BestNub's LiquidBounce](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/BestNub's%20LB/READMe.md)
+- [BurnSense]()
