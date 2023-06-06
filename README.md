@@ -15,4 +15,6 @@ FakeBounce repo is no longer updatable, so we created fork of that repository
 
 ### Forks List:
 - [BestNub's LiquidBounce](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/BestNub's%20LB/READMe.md)
-- [BurnSense]()
+- [BurnSense](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/Burnsense/README.md)
+- ChelunBounce: [Crack](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/ChenlunBounce/ChenlunBounce%20Cracked.jar) & [Source Code](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/ChenlunBounce/ChenlunBounce-SRC.zip)
+- ChristmacAce
