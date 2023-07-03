@@ -23,6 +23,7 @@ FakeBounce repo is no longer updatable, so we created fork of that repository
 - [DayZay](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/DayZay/README.md)
 - DineTire: [Free](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/DineTire/DineTire_FREE.jar) & [Latest leaked (b2)](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/DineTire/DineTire-b2.jar)
 - [FDP China](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/FDP%20China/README.md)
+- [FDP Classic](https://github.com/CatsPnewed1337/ForkBounce-Archive/tree/main/FDP%20Classic/README.md)
 - [FDP Client](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/FDP%20Client/README.md)
 - [Hreith](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/Hreith/Hreith%20-%20C.jar)
 - [KainoSense](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/KainoSense/README.md)
