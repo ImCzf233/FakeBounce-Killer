@@ -14,11 +14,11 @@ Prebuild release: https://github.com/GlassClient/GlassClient/suites/13402241037/
 
 
 ### Credits.
-hyperium - toggle sprint code<br>
-FDPClient - alot of ui stuff<br>
-Liquidbounce - the base<br>
-LiquidBouncePlus - visuals <br>
-Rise - code<br>
+- hyperium - toggle sprint code<br>
+- FDPClient - alot of ui stuff<br>
+- Liquidbounce - the base<br>
+- LiquidBouncePlus - visuals <br>
+- Rise - code<br>
 
 </div>
 
