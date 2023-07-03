@@ -11,7 +11,7 @@ Prebuild release: https://github.com/GlassClient/GlassClient/suites/13402241037/
 
 ### GlassClient is use at own risk and has banable features on some servers, check with server staff.
 
-</div>
+
 
 ### Credits.
 hyperium - toggle sprint code<br>
@@ -19,6 +19,8 @@ FDPClient - alot of ui stuff<br>
 Liquidbounce - the base<br>
 LiquidBouncePlus - visuals <br>
 Rise - code<br>
+
+</div>
 
 ### How Do I Install Glass?
 [Click for intructions](https://github.com/GlassClient/GlassClient/blob/Client/docs/INSTALLING.md)
