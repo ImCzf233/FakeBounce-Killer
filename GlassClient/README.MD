@@ -12,6 +12,7 @@ Prebuild release: https://github.com/GlassClient/GlassClient/suites/13402241037/
 ### GlassClient is use at own risk and has banable features on some servers, check with server staff.
 
 </div>
+
 ### Credits.
 hyperium - toggle sprint code<br>
 FDPClient - alot of ui stuff<br>
