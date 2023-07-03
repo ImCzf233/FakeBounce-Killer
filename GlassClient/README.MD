@@ -4,7 +4,8 @@
 
 GlassClent is a pvp client which is a fork of a cheat client without any cheats.<br>
 We aim to provide an experience that no other client can provide. <br>
-# GlassClient is use at own risk and has banable features on some servers, check with server staff.
+
+### GlassClient is use at own risk and has banable features on some servers, check with server staff.
 
 
 ## Credits.
@@ -12,7 +13,7 @@ hyperium - toggle sprint code<br>
 FDPClient - alot of ui stuff<br>
 Liquidbounce - the base<br>
 LiquidBouncePlus - visuals <br>
-rise - LMAO <br>
+Rise - code<br>
 
 ## How Do I Install Glass?
 [Click for intructions](docs/INSTALLING.md)
@@ -22,6 +23,8 @@ rise - LMAO <br>
 
 ## Issues
 Found bugs or a missing features? You can let us know by opening an issue [here](https://github.com/GlassClient/GlassClient/issues)!
+
+</div>
 
 ## License
 This project is subject to the [GNU General Public License v3.0](LICENSE). This does only apply for source code located directly in this clean repository. During the development and compilation process, additional source code may be used to which we have obtained no rights. Such code is not covered by the GPL license.
