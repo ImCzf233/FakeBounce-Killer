@@ -11,7 +11,8 @@ Prebuild release: https://github.com/GlassClient/GlassClient/suites/13402241037/
 
 ### GlassClient is use at own risk and has banable features on some servers, check with server staff.
 
-## Credits.
+</div>
+### Credits.
 hyperium - toggle sprint code<br>
 FDPClient - alot of ui stuff<br>
 Liquidbounce - the base<br>
@@ -26,8 +27,6 @@ Rise - code<br>
 
 ## Issues
 Found bugs or a missing features? You can let us know by opening an issue [here](https://github.com/GlassClient/GlassClient/issues)!
-
-</div>
 
 ## License
 This project is subject to the [GNU General Public License v3.0](LICENSE). This does only apply for source code located directly in this clean repository. During the development and compilation process, additional source code may be used to which we have obtained no rights. Such code is not covered by the GPL license.
