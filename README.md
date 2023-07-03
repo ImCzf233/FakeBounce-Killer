@@ -25,7 +25,7 @@ FakeBounce repo is no longer updatable, so we created fork of that repository
 - [FDP China](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/FDP%20China/README.md)
 - [FDP Classic](https://github.com/CatsPnewed1337/ForkBounce-Archive/tree/main/FDP%20Classic/README.md)
 - [FDP Client](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/FDP%20Client/README.md)
-- [Glass Client](- [GlassClient](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/GlassClient/README.MD))
+- [Glass Client](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/GlassClient/README.MD)
 - [Hreith](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/Hreith/Hreith%20-%20C.jar)
 - [KainoSense](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/KainoSense/README.md)
 - [LavaBounce](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/Lavabounce/README.md)
