@@ -27,6 +27,7 @@ FakeBounce repo is no longer updatable, so we created fork of that repository
 - [Hreith](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/Hreith/Hreith%20-%20C.jar)
 - [KainoSense](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/KainoSense/README.md)
 - [LavaBounce](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/Lavabounce/README.md)
+- [LBounce](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/Lbounce/README.md)
 - [LiquidBounce+ Reborn](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/LiquidBounce%2B%20Reborn/README.md)
 - [LiquidBounce++](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/LiquidBounce%2B%2B/README.md)
 - [LiquidBounce+](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/LiquidBounce+/README.md)
