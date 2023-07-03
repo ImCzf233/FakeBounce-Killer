@@ -4,9 +4,12 @@
 
 GlassClent is a pvp client which is a fork of a cheat client without any cheats.<br>
 We aim to provide an experience that no other client can provide. <br>
+Right now have issues with source code.
+
+Source code: https://github.com/GlassClient/GlassClient/ \
+Prebuild release: https://github.com/GlassClient/GlassClient/suites/13402241037/artifacts/733946988
 
 ### GlassClient is use at own risk and has banable features on some servers, check with server staff.
-
 
 ## Credits.
 hyperium - toggle sprint code<br>
@@ -15,11 +18,11 @@ Liquidbounce - the base<br>
 LiquidBouncePlus - visuals <br>
 Rise - code<br>
 
-## How Do I Install Glass?
-[Click for intructions](docs/INSTALLING.md)
+### How Do I Install Glass?
+[Click for intructions](https://github.com/GlassClient/GlassClient/blob/Client/docs/INSTALLING.md)
 
 ## The Staff
-[Click here to find out about the team](docs/TEAM.md)
+[Click here to find out about the team](https://github.com/GlassClient/GlassClient/blob/Client/docs/TEAM.md)
 
 ## Issues
 Found bugs or a missing features? You can let us know by opening an issue [here](https://github.com/GlassClient/GlassClient/issues)!
@@ -43,12 +46,12 @@ this project entirely or partially for free and even commercially. However, plea
 
 Do the above and share your source code with everyone; just like we do!
 
-## Setting up a Workspace
-[Click for intructions](docs/WORKSPACE.md)
+### Setting up a Workspace
+[Click for intructions](https://github.com/GlassClient/GlassClient/blob/Client/docs/WORKSPACE.md)
 
-## Contributing
-[Click for information about Contributing to Glass](docs/NOTECONTRUBTIONS.md)
+### Contributing
+[Click for information about Contributing to Glass](https://github.com/GlassClient/GlassClient/blob/Client/docs/NOTECONTRUBTIONS.md)
 
-## found code that isnt attributed or breaks licences?
+## Found code that isnt attributed or breaks licences?
 make an issue, we can try fix it or remove your code
-thank you <3
+thank you
