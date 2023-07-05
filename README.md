@@ -37,7 +37,7 @@ FakeBounce repo is no longer updatable, so we created fork of that repository
 - [LiquidDrip](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/LiquidDrip/README.md)
 - [LiquidPlus Modified](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/LiquidPlus-Modified/output_yTWEr2.tar.gz)
 - [LiquidSense++++](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/LiquidSense++++/README.md)
-- [LiquidSense](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/LiquidSense/LiquidSense-b5.2.jar)
+- [LiquidSense](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/LiquidSense/LiquidSense-b5.2.jar) / [Source Code](https://mega.nz/file/OvRm1bCC#jsnL7xvDPbvV1lCeQot67Wk-sOWQRVvdZfjpPB0mOJc)
 - [Night X](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/Night%20X/README.md)
 - Noteless: [All files](https://github.com/CatsPnewed1337/ForkBounce-Archive/tree/main/Noteless)
 - Other Forks:
