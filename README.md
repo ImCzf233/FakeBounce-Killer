@@ -62,3 +62,7 @@ FakeBounce repo is no longer updatable, so we created fork of that repository
 - [XiaodaBounce](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/XiaodaBounce/XiaodaBounce-New-Cracked.jar)
 - [aeon](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/aeon/aeon%20v2%20Crack.jar)
 - [dusksense](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/dusksense/dusksense%20-%20C.jar)
+
+### Thanks to
+Thanks to [cheesethesylveon](https://github.com/cheesethesylveon) for Lint
+Thanks to contributors of [FakeBounce](https://github.com/ImCzf233/FakeBounce-Killer) repo for their work
