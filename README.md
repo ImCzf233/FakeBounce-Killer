@@ -10,7 +10,7 @@ GNU General Public License version 3: https://www.gnu.org/licenses/gpl-3.0.en.ht
 ## EN: Why did we create this repository?
 - Many "developers" do not abide by the open-source license, making no contribution when using the results of others. To this end, we will deal with their procedures.
 - According to the original LiquidBounce (GPLv3), the developers required people to disclose their modified products' source when using their code.
-- As far as I am concerned, only [FDPClient](https://github.com/UnlegitMC/FDPClient) and [LiquidBouncePlus](https://github.com/WYSI-Foundation/LiquidBouncePlus) has truly complied with the license.
+- As far as I am concerned, only [FDPClient](https://github.com/UnlegitMC/FDPClient) , [LiquidBouncePlus](https://github.com/WYSI-Foundation/LiquidBouncePlus) and [LiquidBouncePlusReborn](https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn) has truly complied with the license.
 - Most people sell private LiquidBounce versions with built-in verification without disclosing source to their users, which is a serious violation of the original intention of the source.
 - Our goal is to crack these builds/versions or perform other actions to prevent them from continuing their violations.
 
@@ -20,7 +20,7 @@ GNU General Public License version 3: https://www.gnu.org/licenses/gpl-3.0.en.ht
 ## CN: 为什么创建这个项目 
 - 许多开发人员不遵守开源协议。在使用他人成果时不做出任何贡献。为此我们将对他们的程序作出处理。
 - 针对LiquidBounce这个开源项目(GPLv3)，原开发者要求在使用他们的代码时必须对自己的修改产物进行开源。
-- 纵观整个方块人二次开发的LiquidBounce，仅有FDPClient&LiquidBouncePlus真正做到了遵守开源协议。
+- 纵观整个方块人二次开发的LiquidBounce，仅有FDPClient,LiquidBouncePlus以及LiquidBouncePlusReborn真正做到了遵守开源协议。
 - 目前大部分人对二次开发的LiquidBounce加入验证系统，进行售卖，但并未开源，这严重违反了开源者的初衷。
 - 现在我们将对这些客户端进行破解或执行一些阻止其违规行为的操作。
 
