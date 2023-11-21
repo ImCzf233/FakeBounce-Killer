@@ -38,3 +38,5 @@ GNU General Public License version 3: https://www.gnu.org/licenses/gpl-3.0.en.ht
 > 本项目中任何用于破解的第三方补丁、第三方软件不含有任何危害电脑安全的代码。
 - Please use Java version 8 (1.8.0_201) and above if possible.
 >如果可能的话，请使用Java第8版（1.8.0_201）及以上版本。
+- Don't Pull Request their personal information
+> 不要恶俗！
