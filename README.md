@@ -1,4 +1,4 @@
-**English** | [简体中文](docs/README_CN.md) 
+**English** | [简体中文](docs/README_CN.MD) 
 
 # Bounce-Killer
  Eliminate publicly distributed and illegally sold versions of LiquidBounce without source code. \
